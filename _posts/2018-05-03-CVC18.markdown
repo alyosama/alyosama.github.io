@@ -1,10 +1,23 @@
 ---
 layout: post
-title:  "1st Ain Shams University Computer Vision Competition (CVC18)"
+title:  "CVC18 | 1st Ain Shams University Computer Vision Competition"
 date:   2018-05-03 12:02:01
 categories: Computer Vision
 ---
-These are the projects ranked
+
+![Competition Logo](https://image.ibb.co/h25pPS/CVC_logo.png){:class="img-responsive"}
+
+Research progress in computer vision and pattern recognition has lead to a variety of modeling techniques with (almost) human-like performance in a variety of tasks. We are organizing a competition on implementation computer vision systems. We aim to compile the latest efforts and research advances from the scientific community in creating a computer vision applications to help our daily life. 
+For more details, [click here](https://docs.google.com/document/d/1C_wSxrgw-kYavpIhnIoB-FvKqm8dxKkqDvh25Xo9H5E/edit?usp=sharing)
+
+
+This competition is related to Digital Image Processing Course in Ain Shams University
+Dr. Mahmoud Khalil 
+CESS TA: Aly Osama
+MCT TA: Mohamed Ashraf
+
+
+These are 60 projects proposed and this is a ranked list:
 
 |Rank|Team Name|Team Number|Demo Video|Source Code|Proposal|
 |-------|-------|-------|-------|-------|-------|

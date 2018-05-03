@@ -3,9 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+I am a freelance artificial intelligence engineer.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I was a Research Software Development Engineer at Microsoft Research. Now, I am a freelancer and a graduate researcher at artificial intelligence applications.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+My passion is machine learning, I enjoy being challenged in different domains and solving problems with artificial intelligence to help people live better lives.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am working on different Computer vision, NLP, Speech Recognition and Time Series forecasting projects with different machine learning and deep learning technologies.
+Moreover, I am able to develop different types of applications including desktop, web and mobile as I have a strong experience with C++, Java, C#, and python.
