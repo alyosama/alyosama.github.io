@@ -3,9 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am a freelance artificial intelligence engineer.
+I am a top rated freelance artificial intelligence engineer.
 
-I was a Research Software Development Engineer at Microsoft Research. Now, I am a freelancer and a graduate researcher at artificial intelligence applications.
+I was a Research Software Development Engineer at Microsoft Research. Now, I am a graduate researcher in computational biology applications.
 
 My passion is machine learning, I enjoy being challenged in different domains and solving problems with artificial intelligence to help people live better lives.
 
