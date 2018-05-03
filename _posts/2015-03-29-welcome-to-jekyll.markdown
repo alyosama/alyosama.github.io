@@ -1,25 +1,67 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-03-29 12:02:01
-categories: jekyll update
+title:  "1st Ain Shams University Computer Vision Competition (CVC18)"
+date:   2018-05-03 12:02:01
+categories: Computer Vision
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+These are the projects ranked
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+|Rank|Team Name|Team Number|Demo Video|Source Code|Proposal|
+|-------|-------|-------|-------|-------|-------|
+*|Gamer Robot|24|[youtube](https://youtu.be/lT4XUlmFXzs)|[github](https://drive.google.com/open?id=1-M4_EPacXdax8zLryPfrzK7hFztnfXvk)|[pdf](https://github.com/MahmoudNasser27/Gamer-Robot)|
+*|Zombies|2|[youtube](https://youtu.be/YuI7b8WjyHM)|[github](https://drive.google.com/open?id=1bK-qOxFvlEYqnqt7nA1Ti6RDKM-VIMUR)|[pdf](https://github.com/KM49N/Circuit)|
+*|3102|19|[youtube](https://www.youtube.com/watch?v=0yi0UcLfW2I&feature=youtu.be)|[github](https://drive.google.com/open?id=1hm0fYyMo76zZD4M6n_kEQL4TjEpMfzwR)|[pdf](https://github.com/abdelrahmanbedier/detect_potholes/tree/master/pothole-detection)|
+*|IC position and orientation detection|18|[youtube](https://youtu.be/whtgA91HWt0)|[github](https://drive.google.com/open?id=1dCZjNmzXK-kKJTE1EPmm5kT3xeSPpxYf)|[pdf](https://github.com/osama95/IC-position-and-orientation-detection)|
+*|Check Splitter|1|[youtube](https://youtu.be/UOeC-jRCUF4)|[github](https://drive.google.com/open?id=1jbi5Q6Pt62TLTN6mpr_eTs7NKgU_FE51)|[pdf](https://github.com/KhadigaMesbah/CheckSplitter)|
+*|Targemly|11|[youtube](https://www.youtube.com/playlist?list=PLijPGmlMpDKyHGWDvcUhRthNViN3AqzjI)|[github](https://drive.google.com/open?id=1altfk_6nkVrIPPb-WSaHzwPRXEYUYXZV)|[pdf](https://github.com/khaledsalah04/Image-processing-project)|
+*|MSP|21|[youtube](https://youtu.be/WbNNh3FxzpE)|[github](https://drive.google.com/open?id=1hWYpkzaasjzR3kM2caun4BjBGstEO5sx)|[pdf](https://github.com/MarieNagy/Musical-sheets-play)|
+*|RGB|14|[youtube](https://www.youtube.com/playlist?list=PLVJtKQZ2QgMMoc5p3R2SngvLME2XwYHst)|[github](https://drive.google.com/open?id=1Yirr-wVcg4TnCgEYXIskujsCQy87gG6H)|[pdf](https://github.com/AhmedAmrAttiah/ImageProcessingProject)|
+*|Baby Face|20|[youtube](https://www.youtube.com/watch?v=80Yrxnf4g78&feature=youtu.be)|[github](https://drive.google.com/open?id=1hcM7o5icr9_Eg-P0wHzPSEBPCvdAXOda)|[pdf](https://github.com/AsmaaJoe/IMGPro_BabyFace)|
+*|iscene|5|[youtube](https://youtu.be/cdHvDsH6ZPU)|[github](https://drive.google.com/open?id=1smk-vYABr2VExsOXI58EeJM8LXki_elh)|[pdf](https://github.com/ahmedusama/iScene-Text-and-currecy-recognition-with-audio-feedback.git)|
+*|The Underdogs|6|[youtube](https://www.youtube.com/watch?v=pbRxPWbW1t8)|[github](https://drive.google.com/open?id=1jSkrhU7kkGV9fxNK0F8LYIYdOGjpZqVh)|[pdf](https://github.com/mostafa07/Best-Price-IP/)|
+*|QuickCalc|26|[youtube](https://www.youtube.com/watch?v=DBUgcOcfvkw)|[github](https://drive.google.com/open?id=1tFavNSi4YQPrNz-Y8gABWB4qZEfQblVc)|[pdf](https://github.com/SilvanaMaher/ImageProcessingProject)|
+*|Sarahat|22|[youtube](https://youtu.be/Nay9cZux2As)|[github](https://drive.google.com/open?id=1sYICJyB3mJ_KGpVvwHg0KPIXM0ykhWqu)|[pdf](https://github.com/SarahElZoqm/imageProjectOCR.git)|
+*|Goodfellas|8|[youtube](https://youtu.be/MSsMK4U6SkU)|[github](https://drive.google.com/open?id=1xcSzjm5lQG2WpMtVhgzmnJGgFrTXPcpr)|[pdf](https://github.com/Hossamhosni/facedetector)|
+*|Conan|10|[youtube](https://www.youtube.com/watch?v=y8guTaaSQSQ)|[github](https://drive.google.com/open?id=1OTxCIm59WeDAnmU1E8keF2ydl9SBC08w)|[pdf](https://github.com/YomnaHAmin/Fake-Money-Detector.git)|
+*|The 4 Pixels|17|[youtube](https://www.youtube.com/watch?v=dRXis_q7nGU&feature=youtu.be)|[github](https://drive.google.com/open?id=11kRTUNJ9tNiusJlmWuaqkM1yQJB-CLbE)|[pdf](https://github.com/AbdelrahmanSh/sudoku_solver)|
+*|Detect_Banknot|3|[youtube](https://youtu.be/taNlIo_TKVE)|[github](https://drive.google.com/open?id=16GO8x4I9Dhlsn0mcX51Poa4JPIizrYQp)|[pdf](https://github.com/mahmoudGamalEldin/-Money_detector_and_estimator)|
+*|MechaVision|4|[youtube](https://www.youtube.com/watch?v=U3CEWeNKNGw)|[github](https://drive.google.com/open?id=1aiCKCdgqMVgR6OMVGO7uvnJSZj-bkMGg)|[pdf](https://github.com/MohamedRaslan/DigitizerProgram)|
+*|we can|15|[youtube](https://drive.google.com/open?id=19JF8DewJzjsENoYwUoYVii-h-f3lMPYx)|[github](https://drive.google.com/open?id=1d6alfr-WU-3lRbEzT3BXOYI_owqWje2n)|[pdf](https://github.com/amirashobak/Image_processing)|
+*|kleber&mounir|9|[youtube](https://youtu.be/RG29hQ2qWVE)|[github](https://drive.google.com/open?id=1CpO6-HHSpJuUixGidaMRQ2tPN_1oIv0A)|[pdf](https://github.com/peterkleber/Hole-Detector.git)|
+21|Fantastic 4|7|[youtube](https://drive.google.com/drive/folders/1pUC7_7jqRVTb4Hm8fcnUT9E96wB7B1Hu)|[github](https://drive.google.com/open?id=1r8-H-racxJ5AsX4l87Pc8oY0Hp6Si7ox)|[pdf](https://gitlab.com/MhmudFwzi/Surveillance-Camera-openCV.git)|
+22|Seals|25|[youtube](https://youtu.be/kb_VRk5l-1k)|[github](https://drive.google.com/open?id=172766CzFnG--0GIGJaDN5s_S56Qz1YX_)|[pdf](https://github.com/medayehia/label-inspection-ocr)|
+23|OneLastStep "OLS"|16|[youtube](https://www.youtube.com/watch?v=iOnQSa1KeHI&feature=youtu.be)|[github](https://drive.google.com/open?id=1Fja7sxJhKd_kYi8Sakirf2WLpOVjdhkE)|[pdf](https://github.com/WaelAhmad/Face-Swapping)|
+24|X|27|[youtube](https://drive.google.com/file/d/1fuUO1gTdFgxm2nURlzfSXfV-6TgQX53O/view?usp=sharing)|[github](https://drive.google.com/open?id=14rWkHaAvdAMOah5OnwsvEgNzam3JJ_p3)|[pdf](https://github.com/GhadeerElkhazragy/Maze_Solver)|
+25|mohamed ahmed |38|[youtube](https://drive.google.com/open?id=1KdyAVWBT4sA0hhRgovVm9NHT8emLjVa-)|[github](nan)|[pdf](https://drive.google.com/open?id=1KdyAVWBT4sA0hhRgovVm9NHT8emLjVa-)|
+26|The PixelBreaker|53|[youtube](https://www.youtube.com/watch?v=JFjmobJTzQs&feature=youtu.be)|[github](https://drive.google.com/open?id=1mRpdIK_Fbw1omEjdjtYn6L_eFbU_qRtM)|[pdf](https://github.com/SaeedAbdelWahab/PixelBreaker.git)|
+27|AMAM|33|[youtube](https://www.youtube.com/watch?v=YVBaOClfvME&feature=youtu.be)|[github](https://drive.google.com/open?id=10j_eIK-Stt3ZAKiTBRheT94ySp7_DiYO)|[pdf](https://gitlab.com/amr-essam95/esh7enly)|
+28|NutriSafe|57|[youtube](https://youtu.be/oLdO_-gTW0s)|[github](https://drive.google.com/open?id=1P-EWrWLvQDdb6--3E-MMRYXtm_jC1aCg)|[pdf](https://github.com/Nada1996/NutriSafe)|
+29|Visionize|45|[youtube](https://www.youtube.com/watch?v=z7mHfJlxqL8)|[github](https://drive.google.com/open?id=1Fq22iHqE168qCi9WXvj-6JdMyb1K--wv)|[pdf](https://github.com/AhmadOsama4/Self-Driving-Car-Game)|
+30|Aliens|47|[youtube](https://youtu.be/ZazKdavcZlA  )|[github](https://drive.google.com/open?id=1IoA-ViIi6iOM6uULa96i93HIfE4vI7O-)|[pdf](https://github.com/nohadrweesh/Scanner-and-Translator)|
+31|Minions|40|[youtube](https://www.youtube.com/watch?v=ggjOMqFn8Fg&feature=youtu.be)|[github](https://drive.google.com/open?id=1_fwjB0lDTQQ1BFIS_mdEyJ60GJt_5FoL)|[pdf](https://github.com/MayarAlaa/LinearSystemEquationSolverApp)|
+32|Mathematicians|54|[youtube](https://drive.google.com/file/d/139sKPQs4Y7fw2gdgR9xN3YL1nu4XSaPj/view)|[github](https://drive.google.com/open?id=1kPz9m_wWG_srcA8qIduKYDfPu-aZqfig)|[pdf](https://github.com/mahmoud4495/EasyMath)|
+33|Flash Team|31|[youtube](https://www.youtube.com/watch?v=F-E4p7Rk8Wo)|[github](https://drive.google.com/open?id=1NPek_fDMQaGDkh9mI1vIR15MAqoDi9sH)|[pdf](https://github.com/Abdelrahman-Elnaggar/Convert-from-analog-to-digital-clock)|
+34|AAAT|46|[youtube](https://youtu.be/ruHFZlaLTCA)|[github](https://drive.google.com/open?id=1lTa-ydnuJLi8DhzScAZmLJSBAz_OmNzy)|[pdf](https://github.com/AlaaHazem/image-processing-project)|
+35|Just Do It|23|[youtube](https://www.youtube.com/watch?v=OfcQBHf5rzc&feature=youtu.be)|[github](https://drive.google.com/open?id=1B2TAAcYNTkMjzgFOM6bgGpNRlCHSCugm)|[pdf](https://github.com/MohamedShokr22/Handwriting-Recognition)|
+36|GOS (Game of Stores)|30|[youtube](https://drive.google.com/file/d/1sNF-uChY8UlvzWmzqP24q0dt2udJQ98q/view?usp=sharing)|[github](https://drive.google.com/open?id=1RcX7x8M2bRpwtbfWW7ayHQPLn4xyfRB9)|[pdf](https://bitbucket.org/osamatarkhan/gos)|
+37|Outcasts|42|[youtube](https://www.youtube.com/watch?v=5bOqgkhDn18&feature=youtu.be)|[github](https://drive.google.com/open?id=1jXh2s2bbR3HKcg8vLcDC9QEjcDG5ZERT)|[pdf](https://github.com/Mosta-777/EmojiBuddies/tree/master)|
+38|Blood Classifier|28|[youtube](https://youtu.be/1KJjCgXHLFQ)|[github](https://drive.google.com/open?id=11441lfAw--f0MNTejBhHZGyOfPk-Qx5p)|[pdf](https://github.com/AbdulrahmanYasser95/Blood-Identifier)|
+39|R & M|35|[youtube](https://www.youtube.com/watch?v=8nNRip633Kg)|[github](https://drive.google.com/open?id=1uq6l9082ftfF_v71aZsPS7aqJ0_bOWcX)|[pdf](https://github.com/reemahmedosman/Image)|
+40|ProNoobs|34|[youtube](https://www.youtube.com/watch?v=HtfcPnQfiiM)|[github](https://drive.google.com/open?id=17KTDaXKQNO6_4SNteRLTNS8N5SW8hf9i)|[pdf](https://github.com/ELBe7ery/CSE-464-ImageProcesssing/tree/FINAL_PROJECT)|
+41|Revolt|50|[youtube](https://www.youtube.com/watch?v=TUxxcr2Gwqg&feature=youtu.be)|[github](https://drive.google.com/open?id=1kwZig62veW7K3eI_e_OJqTtYodwE_vRx)|[pdf](https://github.com/RandaKhairy/traffic-light-color-detector)|
+42|The Lightning|52|[youtube](https://youtu.be/_KwdheugeSU)|[github](https://drive.google.com/open?id=1Vt3GBN8hsd7DbvhiV4XcBrVoed-i6wGR)|[pdf](https://github.com/Amany-Abdelhamid/The-Lightning-_-Recharge-cell-phone-cards)|
+43|3F's|51|[youtube](https://drive.google.com/open?id=1-53XBzr24GokeDDnXQvQv_KcKAuej4dh)|[github](https://drive.google.com/open?id=1YBwPFu6ymZaTUgv2tCzyx4m_VrhjsiwQ)|[pdf](https://github.com/Fatma-Saleh/2018-world-cup-s-teams-information)|
+44|-|32|[youtube](https://www.youtube.com/watch?v=Ck5mi0nn1ok&feature=youtu.be)|[github](https://drive.google.com/open?id=12dAzx1wIw0avrDyYj6tPvImBN67Yd1YS)|[pdf](https://github.com/MahmoudSelmy/KidsInspector-)|
+45|Pharaonic 4|48|[youtube](https://www.youtube.com/watch?v=L9dRCk537fk)|[github](https://drive.google.com/open?id=1LZomuli3v7Ij5KdrKe0NBswY3e1m39UU)|[pdf](https://github.com/HeshoSalah/ComputerVisionSystem)|
+46|mostafa mohammed ismael mohammed shalaby--- mostafa mohammed abdallah abbbas |13|[youtube](https://www.youtube.com/watch?v=AuEKSnPjcN4&feature=youtu.be)|[github](https://drive.google.com/open?id=1d5LAKgDFqjKd3aX_cLTvU_nu8te4BsKe)|[pdf](https://github.com/Shikoshalaby/image-processing-/tree/master)|
+47|NSN|55|[youtube](https://youtu.be/v2dWOex72yY)|[github](https://drive.google.com/open?id=1OYAC2aBxQ3z_hSU-r5lNN88IWBbaiPKT)|[pdf](https://github.com/laila95/flowchart_generator)|
+48|A-Squared|29|[youtube](nan)|[github](https://drive.google.com/open?id=1VTKJGlDbomkEeTqANKgbl2_lQEZ-VRbR)|[pdf](https://github.com/ayaemad/Virtual-Dressing)|
+49|KAFF|39|[youtube](https://www.youtube.com/watch?v=FLL37LRBK5Y&feature=youtu.be)|[github](https://drive.google.com/open?id=1FKCtCzNrtg2vuBTmyYyVRC9FQNEgdOw4)|[pdf](https://github.com/AbdelwhabMohamed/opencv-Manufature_Defects)|
+50|bookworms|37|[youtube](https://youtu.be/640bl3Y9KyM)|[github](https://drive.google.com/open?id=1vZ8RwiBZwYTUb-SEZaNzGsUo8C3ZygM-)|[pdf](https://github.com/wisesama/OCR_project)|
+51|sonic|36|[youtube](https://youtu.be/8N_PSvmTnK8)|[github](https://drive.google.com/open?id=17gXBc0yadJXT_dg1g_RE8HkYUEdiNUmk)|[pdf](https://github.com/nadaelmargoushy/image-project.git)|
+52|Syrian Eagles |43|[youtube](https://youtu.be/q2oavXbWLik)|[github](nan)|[pdf](https://github.com/NawafHZz/Motion-Detection.git)|
+53|LPR |12|[youtube](https://www.youtube.com/watch?v=k33AwO9rwdU&feature=youtu.be)|[github](https://drive.google.com/open?id=1YpXRGZ0SzouDslgY53jZnhKm4Vk7VKjp)|[pdf](https://drive.google.com/file/d/1hxqhtMnEFH4FzSvTmpxk0HBRKxRCTEos/view?usp=sharing)|
+54|Money Reader|44|[youtube](https://drive.google.com/file/d/100lU0o8fYJ_myEesH1XSPZpnUwxCHALP/view?usp=sharing)|[github](https://drive.google.com/open?id=1Nf387ugbkAr92LpCWV_cba1S1Q2DEqIt)|[pdf](https://github.com/reemmostafa/Money-Reader-)|
+55|guardians of the galaxy|56|[youtube](https://www.youtube.com/watch?v=fK9_wT5CbYM)|[github](https://drive.google.com/open?id=1mP2z8BnJlVeZwQgp7gkT4I9UPuSu4X0d)|[pdf](https://github.com/hodaabdelbasit3/License-Plate-Recognition)|
+56|Tesla certified image processing engineers|41|[youtube](https://www.youtube.com/watch?v=xiYDwdQ88nY)|[github](https://drive.google.com/open?id=1bNXfHz0NvPJTKcc4ZgfXFAGVMVAMOfYE)|[pdf](https://github.com/Sherif-Mohamed/PlateDetector.git)|
+57|Gasser|49|[youtube](nan)|[github](nan)|[pdf](nan)|
