@@ -15,7 +15,7 @@ This competition is related to Digital Image Processing Course in Ain Shams Univ
 
 These are 60 projects submitted and below the ranked list and we haven't ranked the top 20 yet
 
-|Rank|Team Name|Team Number|Demo Video|Source Code|Proposal|
+|Rank|Team Name|#Team|Demo|Code|Proposal|
 |-------|-------|-------|-------|-------|-------|
 *|The PixelBreaker|53|[youtube](https://www.youtube.com/watch?v=JFjmobJTzQs&feature=youtu.be)|[github](https://github.com/SaeedAbdelWahab/PixelBreaker.git)|[pdf](https://drive.google.com/open?id=1mRpdIK_Fbw1omEjdjtYn6L_eFbU_qRtM)|
 *|Zombies|2|[youtube](https://youtu.be/YuI7b8WjyHM)|[github](https://github.com/KM49N/Circuit)|[pdf](https://drive.google.com/open?id=1bK-qOxFvlEYqnqt7nA1Ti6RDKM-VIMUR)|
