@@ -11,13 +11,10 @@ Research progress in computer vision and pattern recognition has lead to a varie
 For more details, [click here](https://docs.google.com/document/d/1C_wSxrgw-kYavpIhnIoB-FvKqm8dxKkqDvh25Xo9H5E/edit?usp=sharing).
 .
 
-This competition is related to Digital Image Processing Course in Ain Shams University.
-Dr. Mahmoud Khalil.
-CESS TA: Aly Osama.
-MCT TA: Mohamed Ashraf.
+This competition is related to Digital Image Processing Course in Ain Shams University and organized by Aly Osama, Mohamed Ashraf and Dr. Mahmoud Khalil
 
+These are 60 projects proposed and this is a ranked list,
 
-These are 60 projects proposed and this is a ranked list:
 |Rank|Team Name|Team Number|Demo Video|Source Code|Proposal|
 |-------|-------|-------|-------|-------|-------|
 *|The PixelBreaker|53|[youtube](https://www.youtube.com/watch?v=JFjmobJTzQs&feature=youtu.be)|[github](https://drive.google.com/open?id=1mRpdIK_Fbw1omEjdjtYn6L_eFbU_qRtM)|[pdf](https://github.com/SaeedAbdelWahab/PixelBreaker.git)|
