@@ -15,13 +15,13 @@ This competition is related to Digital Image Processing Course in Ain Shams Univ
 
 These are 60 projects submitted and below the ranked list and we haven't ranked the top 20 yet
 
-|Rank|TeamName|#Team|DemoVideo|SourceCode|Proposal|
+|Rank|Team Name|Team Number|Demo Video|Source Code|Proposal|
 |-------|-------|-------|-------|-------|-------|
 *|The PixelBreaker|53|[youtube](https://www.youtube.com/watch?v=JFjmobJTzQs&feature=youtu.be)|[github](https://github.com/SaeedAbdelWahab/PixelBreaker.git)|[pdf](https://drive.google.com/open?id=1mRpdIK_Fbw1omEjdjtYn6L_eFbU_qRtM)|
+*|Check Splitter|1|[youtube](https://youtu.be/UOeC-jRCUF4)|[github](https://github.com/KhadigaMesbah/CheckSplitter)|[pdf](https://drive.google.com/open?id=1jbi5Q6Pt62TLTN6mpr_eTs7NKgU_FE51)|
 *|Zombies|2|[youtube](https://youtu.be/YuI7b8WjyHM)|[github](https://github.com/KM49N/Circuit)|[pdf](https://drive.google.com/open?id=1bK-qOxFvlEYqnqt7nA1Ti6RDKM-VIMUR)|
 *|Gamer Robot|24|[youtube](https://youtu.be/lT4XUlmFXzs)|[github](https://github.com/MahmoudNasser27/Gamer-Robot)|[pdf](https://drive.google.com/open?id=1-M4_EPacXdax8zLryPfrzK7hFztnfXvk)|
 *|AMAM|33|[youtube](https://www.youtube.com/watch?v=YVBaOClfvME&feature=youtu.be)|[github](https://gitlab.com/amr-essam95/esh7enly)|[pdf](https://drive.google.com/open?id=10j_eIK-Stt3ZAKiTBRheT94ySp7_DiYO)|
-*|Check Splitter|1|[youtube](https://youtu.be/UOeC-jRCUF4)|[github](https://github.com/KhadigaMesbah/CheckSplitter)|[pdf](https://drive.google.com/open?id=1jbi5Q6Pt62TLTN6mpr_eTs7NKgU_FE51)|
 *|3102|19|[youtube](https://www.youtube.com/watch?v=0yi0UcLfW2I&feature=youtu.be)|[github](https://github.com/abdelrahmanbedier/detect_potholes/tree/master/pothole-detection)|[pdf](https://drive.google.com/open?id=1hm0fYyMo76zZD4M6n_kEQL4TjEpMfzwR)|
 *|NutriSafe|57|[youtube](https://youtu.be/oLdO_-gTW0s)|[github](https://github.com/Nada1996/NutriSafe)|[pdf](https://drive.google.com/open?id=1P-EWrWLvQDdb6--3E-MMRYXtm_jC1aCg)|
 *|IC position and orientation detection|18|[youtube](https://youtu.be/whtgA91HWt0)|[github](https://github.com/osama95/IC-position-and-orientation-detection)|[pdf](https://drive.google.com/open?id=1dCZjNmzXK-kKJTE1EPmm5kT3xeSPpxYf)|
@@ -49,7 +49,7 @@ These are 60 projects submitted and below the ranked list and we haven't ranked 
 30|The Lightning|52|[youtube](https://youtu.be/_KwdheugeSU)|[github](https://github.com/Amany-Abdelhamid/The-Lightning-_-Recharge-cell-phone-cards)|[pdf](https://drive.google.com/open?id=1Vt3GBN8hsd7DbvhiV4XcBrVoed-i6wGR)|
 31|3F's|51|[youtube](https://drive.google.com/open?id=1-53XBzr24GokeDDnXQvQv_KcKAuej4dh)|[github](https://github.com/Fatma-Saleh/2018-world-cup-s-teams-information)|[pdf](https://drive.google.com/open?id=1YBwPFu6ymZaTUgv2tCzyx4m_VrhjsiwQ)|
 32|Goodfellas|8|[youtube](https://youtu.be/MSsMK4U6SkU)|[github](https://github.com/Hossamhosni/facedetector)|[pdf](https://drive.google.com/open?id=1xcSzjm5lQG2WpMtVhgzmnJGgFrTXPcpr)|
-33|CN/A|10|[youtube](https://www.youtube.com/watch?v=y8guTaaSQSQ)|[github](https://github.com/YomnaHAmin/Fake-Money-Detector.git)|[pdf](https://drive.google.com/open?id=1OTxCIm59WeDAnmU1E8keF2ydl9SBC08w)|
+33|Conan|10|[youtube](https://www.youtube.com/watch?v=y8guTaaSQSQ)|[github](https://github.com/YomnaHAmin/Fake-Money-Detector.git)|[pdf](https://drive.google.com/open?id=1OTxCIm59WeDAnmU1E8keF2ydl9SBC08w)|
 34|Sarahat|22|[youtube](https://youtu.be/Nay9cZux2As)|[github](https://github.com/SarahElZoqm/imageProjectOCR.git)|[pdf](https://drive.google.com/open?id=1sYICJyB3mJ_KGpVvwHg0KPIXM0ykhWqu)|
 35|KAFF|39|[youtube](https://www.youtube.com/watch?v=FLL37LRBK5Y&feature=youtu.be)|[github](https://github.com/AbdelwhabMohamed/opencv-Manufature_Defects)|[pdf](https://drive.google.com/open?id=1FKCtCzNrtg2vuBTmyYyVRC9FQNEgdOw4)|
 36|The 4 Pixels|17|[youtube](https://www.youtube.com/watch?v=dRXis_q7nGU&feature=youtu.be)|[github](https://github.com/AbdelrahmanSh/sudoku_solver)|[pdf](https://drive.google.com/open?id=11kRTUNJ9tNiusJlmWuaqkM1yQJB-CLbE)|
