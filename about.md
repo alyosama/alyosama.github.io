@@ -3,9 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am a top rated freelance artificial intelligence engineer.
+I am a top rated freelance artificial intelligence engineer with 100% success rate on Upwork.
 
-I was a Research Software Development Engineer at Microsoft Research. Now, I am a graduate researcher in computational biology applications.
+I was a Research Software Development Engineer at Microsoft Research. Now, I am a graduate researcher in computational biology and deep learning.
 
 My passion is machine learning, I enjoy being challenged in different domains and solving problems with artificial intelligence to help people live better lives.
 
