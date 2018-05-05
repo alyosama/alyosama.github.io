@@ -13,7 +13,7 @@ For more details, [click here](https://docs.google.com/document/d/1C_wSxrgw-kYav
 
 This competition is related to Digital Image Processing Course in Ain Shams University and organized by Aly Osama, Mohamed Ashraf and Dr. Mahmoud Khalil
 
-These are 60 projects submitted and below the ranked list and we haven't ranked the top 20 yet
+The projects ranked list 
 
 |Rank|TeamName|#Team|DemoVideo|SourceCode|Proposal|
 |-------|-------|-------|-------|-------|-------|
