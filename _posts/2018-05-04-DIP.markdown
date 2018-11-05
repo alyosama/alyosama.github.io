@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Practical Digital Image Processing"
+date:   2018-05-04 12:02:01
+categories: Computer Vision
+---
+
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=fc3kUGSVN6g" frameborder="0" allowfullscreen></iframe>
+
+##Course Content
+
+1. [Intro to practical image processing] (https://www.slideshare.net/AlyOsama2/practical-digital-image-processing-1)
+2. [Transformation and Edge Detection] (https://www.slideshare.net/AlyOsama2/practical-digital-image-processing-2)
+3. [Hough Transform and Corner Detector] (https://www.slideshare.net/AlyOsama2/practical-digital-image-processing-3)
+4. [Feature discriptors and Feature matching] (https://www.slideshare.net/AlyOsama2/practical-digital-image-processing-4)
+5. [Stereo Images, Optical flow and machine learning] (https://www.slideshare.net/AlyOsama2/practical-digital-image-processing-5)
+
+##Competition 
+
+[1st Ain Shams University Computer Vision Competition] (http://alyosama.github.io/computer/vision/2018/05/03/CVC18.html)
