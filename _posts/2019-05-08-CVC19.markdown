@@ -13,7 +13,7 @@ For more details, [click here](http://ihub.asu.edu.eg/cvc19.html)
 
 This competition is related to Digital Image Processing Course in Ain Shams University and organized by Aly Osama, Mohamed Ashraf and Dr. Mahmoud Khalil
 
-The projects ranked list 
+The projects list, This is not the final rank.  
 
 |Rank|TeamName|Team#|DemoVideo|SourceCode|
 |-------|-------|-------|-------|-------|
