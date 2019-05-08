@@ -1,0 +1,95 @@
+---
+layout: post
+title:  "CVC19 | 2nd Ain Shams University Computer Vision Competition"
+date:   2019-05-08 12:02:01
+categories: Computer Vision
+---
+
+![Competition Logo](https://image.ibb.co/h25pPS/CVC_logo.png){:class="img-responsive"}
+
+Research progress in computer vision and pattern recognition has lead to a variety of modeling techniques with (almost) human-like performance in a variety of tasks. We are organizing a competition on implementation computer vision systems. We aim to compile the latest efforts and research advances from the scientific community in creating a computer vision applications to help our daily life. 
+For more details, [click here](http://ihub.asu.edu.eg/cvc19.html)
+.
+
+This competition is related to Digital Image Processing Course in Ain Shams University and organized by Aly Osama, Mohamed Ashraf and Dr. Mahmoud Khalil
+
+The projects ranked list 
+
+|Rank|TeamName|Team#|DemoVideo|SourceCode|
+|-------|-------|-------|-------|-------|
+*|ScanLee|22|[youtube](https://www.youtube.com/watch?v=YwVEqtSxIM8&feature=youtu.be&fbclid=IwAR1r2SEXiNYrXbm8hGDTHM02FwrZL4-6bLZJZ_qO0xRcoB4I6h4fGv1UwR4)|[github](https://github.com/3omar3allam/salah-ly)
+*|SitFit|66|[youtube](https://youtu.be/UXKte1Qf39A)|[github](https://github.com/SamuelFarid/SitFit)
+*|LastMinuteSquad|13|[youtube](https://youtu.be/oeaySq77Bmc)|[github](https://github.com/AmrMohamed96/freshmen_table_parser_LMS)
+*|TransPixels|56|[youtube](https://www.youtube.com/watch?v=j7Hj9SPsO_k&feature=youtu.be&fbclid=IwAR23BmTVSu9Eyv6SBsJVyTWQDQJ5OlJfitjjuXNZ0mquwDRLkum0gSoCiok)|[github](https://github.com/AbdelrhmanMagdy/trans-pixels)
+*|MaFa|14|[youtube](https://youtu.be/lLNY1k0gY2c)|[github](https://github.com/Fady-Saeed/Mokhalfati-Integrated)
+*|Check it|19|[youtube](https://www.youtube.com/playlist?list=PLpIgTVyzkB4RoXK8aVgWw7RMEQG3rPpLa)|[github](https://github.com/C-Script/AutoGuide)
+*|X-Team|42|[youtube](https://youtu.be/Ft0mwggR25U)|[github](https://github.com/diaaahmed850/Vision19)
+*|Assasins|26|[youtube](https://youtu.be/nRJnQESD81k)|[github](https://github.com/ahmhekal/Drawings_To_autoCad)
+*|0XFFFF|17|[youtube](https://drive.google.com/open?id=15eTuyoUNq_pmm-mtxZ5q0AOj3BQpLpfU)|[github](https://github.com/fadymedhat2236/0XFFFFF-IP)
+*|Plus Ultra|37|[youtube](https://www.facebook.com/kiro.wadie/videos/10215915202087735/)|[github](https://github.com/DavidIbrahim/ERToSQL)
+*|B7b El-Cima|5|[youtube](https://youtu.be/HuqR4sw75ko)|[github](https://github.com/SuperMoody/b7b_el_cima.git)
+*|Wild-pointers Hunters|4|[youtube](https://www.youtube.com/watch?v=xUIy5EQ3R6s&t=2s)|[github](https://github.com/OlaHamdy3/National-ID-card-reader)
+*|Ninja|40|[youtube](https://drive.google.com/file/d/13U_bDedSSWpv50RFDHmI9cr_9gPOz3di/view?usp=sharing)|[github](https://github.com/Amira-Fareed/Camera-Dialer)
+*|HaMBuRGeR|41|[youtube](https://youtu.be/0GmiJvBlCwk)|[github](https://github.com/bothaynahazem/Student-ID-Card-Scanner)
+*|Asphalt|32|[youtube](https://www.youtube.com/watch?v=5_aO7wyKmOU&feature=youtu.be&fbclid=IwAR1Z7pEKJsIllmXMO3dIIL5SvRd-GWMSz68_Nf1RN9T1FegykRvAIeJMgTU)|[github](https://github.com/MoamenAhmedEl-Nashar/Asphalt)
+*|PPU|11|[youtube](https://www.youtube.com/watch?v=feCZ_rXH6UE&feature=youtu.be&fbclid=IwAR2PKETHUbcYKJisY9lxDyqpi5WoFMh8B4xUlGN0XeAq6XL9nQb4HZw3sic)|[github](https://github.com/eng-OmarAdel/PPU?fbclid=IwAR2StymRg19yUoM3UGt86yByphm1uGJbTXIBOmEPZmxtRC-FWbpbFs7gWR4)
+*|Codak|24|[youtube](https://drive.google.com/drive/folders/1-8yRLtZzskq-nuEg-CTUqVLHHBf6qmnm?fbclid=IwAR3APdESNKI8yIXPnu0_KbNRw3dUlx0rzef_fO1PJ49WbaYc2yjx_thvBrY)|[github](https://github.com/AyaDarwish/Pseudocode-Converter-CVC)
+*|01pharma|67|[youtube](https://youtu.be/7uhmjrfo9qQ)|[github](https://github.com/YomnaJehad/Drug-Pills-Identification-App)
+*|Code Breakers|1|[youtube](https://www.youtube.com/watch?v=dA7OlHviErc&t=40s)|[github](https://github.com/AhmedSadek60/TableScanner)
+*|Orca|10|[youtube](https://drive.google.com/open?id=1LOtMQKHlAmZqM6DJC46BG5qehVZr3W4X)|[github](https://github.com/Salmaaattia/Plastic-Classification-.git)
+*|DoDo|39|[youtube](https://youtu.be/9pp_zGtAmGk )|[github](https://github.com/AlJazari1440/DoDo_ws )
+*|Les Misérables|44|[youtube](https://youtu.be/SFog5FCl6OI)|[github](https://github.com/DarioMars97/ImageProcessing_Project_2019)
+*|BARMS|57|[youtube](https://youtu.be/PeIvEEkMYSc)|[github](https://github.com/BasmaMauad/VirtualFittingRoom)
+*|Meow|35|[youtube](https://youtu.be/gxZ3qgENN7c)|[github](https://github.com/Amrallah/Bookworm)
+*|ImageNotFound|68|[youtube](https://youtu.be/ugkKnNf6t3c)|[github](https://github.com/MuhammedMegz/Smart-Traffic-light-control.git)
+*|Hand of the King|29|[youtube](https://www.youtube.com/watch?v=haRkKLDiGCw)|[github](https://github.com/BassemMounir/Hand-Of-The-King)
+*|The Geeks|69|[youtube](https://drive.google.com/drive/folders/1QfdCr512rORahTVvsEWK6phYVbgSBGJf)|[github](https://github.com/markmmt/NutritionApp_DIP_Project)
+*|Griffindor|65|[youtube](https://www.youtube.com/watch?v=ZmXZAtHfOdE)|[github](https://github.com/AhmedSayedSk/ParkingLot)
+*|RESISTO|46|[youtube](https://www.youtube.com/watch?v=di8VYU7bFb0&feature=youtu.be)|[github](https://github.com/ETBMina/Resisto)
+*|D.O.C|34|[youtube](https://www.youtube.com/watch?v=hc1QHRtInZs)|[github](https://github.com/ahmedfathy1995/Drowsiness-Detection-ASU-project.git)
+*|Team1|76|[youtube](https://www.youtube.com/watch?v=D8tx-6eT9Wc&feature=youtu.be)|[github](https://github.com/MarkIbrahim95/Image-Processing-Project.git)
+*|Robotics Solutions for Industrial Automation|62|[youtube](https://www.youtube.com/watch?v=bL8fScdBOos&t=23s)|[github](https://github.com/Jubashi1/Digital-Image-Processing-Project.git)
+33|GCD|6|[youtube](https://youtu.be/JE9NrXV7K2w )|[github](https://github.com/HajarELbadawy/Image-Project-Lane-Detection.git)
+34|LAUNDRY ASSISTANT|20|[youtube](https://drive.google.com/drive/folders/11qRwAk8UitGeKpmqZYVICRbTOJHhFSnf?fbclid=IwAR0UrQ_vugEQL--fzcrqgjnjy6ABQMYvi0GqLJItvRNigamvOHlLcmoJPXk)|[github](https://github.com/islambahnasawy/Computer-Vision-CSE)
+35|GAS team|8|[youtube](https://youtu.be/JUid8smSxjM)|[github](https://github.com/MohamedMedhatGhareeb/Object-Tracing_Robot-Grabbing)
+36|السكة الحديد|61|[youtube](https://www.youtube.com/watch?v=uDQbl2ZYrrM&feature=youtu.be)|[github](https://github.com/Khaled-Issa/Timetable-Clarification?files=1)
+37|Cloud9|25|[youtube](https://drive.google.com/open?id=1Ru0awTPqzgYkqhnNQfROzHRJeQorxE_D)|[github](https://github.com/molres/2D-Structure-Analyzer)
+38|Avengers|27|[youtube](https://drive.google.com/open?id=1X2atykFSFNumHO0-435BLcy_MGX_tf8L)|[github](https://github.com/andrewmagdyanis/LazzyReader)
+39|New Legacy|3|[youtube](https://www.youtube.com/watch?v=HLXY7NRlQGw&feature=youtu.be&fbclid=IwAR1QjeXejqnN6OJhV5ueBtEMIh_qY6gzvqA1A4j3f0VvFn93FxwRxFBj3Wo)|[github](https://github.com/Hanansamir21/New-Legency-Team)
+40|MR.Cashier|50|[youtube](https://www.youtube.com/watch?v=tYlI2bXu7j8&feature=youtu.be&fbclid=IwAR3wPLEobMFTUJKOMOMj-e0sK5KvoHXaiTDt23xUbSndIbbMZY_J2J33C9c)|[github](https://github.com/shimaa7/Mr.Cashier)
+41|Ifind|58|[youtube](https://www.youtube.com/watch?v=Lr0KWTwx-18)|[github](https://github.com/bishogasaad/webserver)
+42|Lazy Mouse|36|[youtube](https://drive.google.com/file/d/1bOJCFtMjUvco8CokfhSQ7_8k8bUHr2ma/view?fbclid=IwAR2IJzvl_vuad5dkVfWOXUSperZycy6o6beMPWXZWp-Vz055f4HXhzSTbec)|[github](https://github.com/Mahmoud-Selim/Storyteller)
+43|The A-team|60|[youtube](https://youtu.be/4ZrJ-yzK8P4)|[github](https://github.com/CatherineMourad/The-A-team?fbclid=IwAR3HGPZ3x0i5nZ_MaSPGfO7J5T3AniIb6rI28PHE_i0otFXF_gJpPbx6DLo)
+44|BNHEBAK YA HADY - Smart Shopping|59|[youtube](https://drive.google.com/drive/folders/1YIii5owOStClxTEYs-0uzgQszs5kBWTm?usp=sharing)|[github](https://github.com/mohamedelshorbagy/Smart-Shopping)
+45|DIP Project Team - Mechatronics |30|[youtube](https://youtu.be/c6rJIQGCWpA)|[github](https://github.com/croixakmal/DIP-Project-Team---Mechatronics-PROJECT)
+46|"NO NAME"|45|[youtube](https://www.youtube.com/watch?v=EIXu94D4wDo&feature=youtu.be)|[github](https://github.com/YoussephAhmed/Arabic-Handwritten-Recogonotion)
+47|OpenFusion|16|[youtube](https://www.youtube.com/watch?v=w_uas0t06SQ)|[github](https://github.com/MichaelAkhnoukh/DrugView?fbclid=IwAR3w0yuUcSxSXvSdGIpo6IGnv4rhMxbjYLpsjaipZGUHM4JSIWXcQIaYv4E)
+48|Enzo|51|[youtube](https://drive.google.com/open?id=1-ZKe2GnmXikSF25xzMCSRSuaqusZCvu2)|[github](https://github.com/hossa95/ImageProject)
+49|Majestics|7|[youtube](https://youtu.be/bLBm0MVRMWc)|[github](https://github.com/BoulaZa5/latexer)
+50|صحح اوضاعك|47|[youtube](https://www.youtube.com/watch?v=3U-jcRAeQrs)|[github](https://github.com/IsmaelKhaled/Un-Tiltify)
+51|X-Ohm|12|[youtube](https://youtu.be/tFbfJByPlSc)|[github](https://github.com/MohamdFawzy/DIP_X-ohm_project)
+52|All_Secure|9|[youtube](https://youtu.be/u8ox8q25Vp4)|[github](https://github.com/1400317/All-Secured)
+53|Night Kings|33|[youtube](https://www.youtube.com/watch?v=Pu5tBqKjYC8&t=15s)|[github](https://github.com/MKhayralla/wallPainter)
+54|Enigma |43|[youtube](https://www.youtube.com/watch?v=TTJSwraq8ns&feature=youtu.be&fbclid=IwAR1ThDV0WprNWlFacbrRxHDS6zrNAr_0zugvQDK6BYtAEvXxXYgixz18kmQ)|[github](https://github.com/Rehammm/Imageprocessingproject)
+55|SpaceToon|54|[youtube](https://www.youtube.com/watch?v=P3GAYgtaO_k&feature=youtu.be&fbclid=IwAR17c9ejMol5jNYOK9zUICOJHWv1e9DXBFbZTMX3A-W3PPoaQ6u3_09fJ_Y)|[github](https://github.com/AhmedGom3a/Image-Processing)
+56|HTAMRKE|15|[youtube](https://www.youtube.com/watch?v=7roY830hQ2M&feature=youtu.be)|[github](https://github.com/hebaayman77177/make_cheating_while_doing_exams_harder)
+57|UHS Team|74|[youtube](https://youtu.be/GBAT5bWFIco)|[github](https://github.com/ahmed040/Alzahimar-Medicine-Box/tree/master)
+58|Scope|28|[youtube](https://www.youtube.com/watch?v=xCm5mw_Zqio)|[github](https://github.com/IslamMagdyElserougy/Magdy.git)
+59|Safety First|18|[youtube](https://www.youtube.com/watch?v=VcYIQcxWHJg&feature=youtu.be)|[github](https://github.com/mona-medhat/driver-drowsiness-detection.git)
+60|Panorama|71|[youtube](https://www.youtube.com/watch?v=SKlC4PPbCzQ&feature=share)|[github](https://github.com/fatema-ahmed/IP-Project)
+61|Plant-Detector|73|[youtube](https://www.youtube.com/watch?v=6OfZs8AbyNU)|[github](https://github.com/Ahmad-Magrabi/Ahmad-Zakaria-Ali)
+62|ashba7|53|[youtube](https://youtu.be/NsJ9EbdwyXo)|[github](https://github.com/AhmadWaly/Smartdoorbell/)
+63|BPA 007|70|[youtube](https://www.youtube.com/watch?v=SjDeqVe1YQM&feature=youtu.be)|[github](https://github.com/B2Munchy/Image-Identifier)
+64|Eye Team |38|N/A|[github](https://github.com/ahmgam/3dscannertrail/blob/master/README.md)
+65|AMMAR&RAHAF|31|[youtube](https://youtu.be/Vq1HE2iSfaY)|[github](https://github.com/ammarKhazaa/flashlight-detection/blob/4721104a93ce5d9958684cb9185a1d2a84dc825d/flashlight.py)
+66|hunters|72|N/A|[github](https://github.com/famohamed1996/word-hunter/commit/29b018a1647a6c5e1d0f53a601afd766262fb167)
+67|Chindians |23|[youtube](https://drive.google.com/drive/folders/1TPSyNLStuobJi46kI4_cG5CjcJjSYsM5)|[github](https://github.com/doaajaber/Chindians-)
+68|YNB|75|N/A|[github](https://github.com/omarahmedsadek/Image_Processing_Project/)
+69|El-2shba7|49|[youtube](http://www.mediafire.com/file/wjygzp6mvonou80/Project.rar)|[github](https://github.com/MOSALEMM/Image_Proccesiong_project)
+L|Fuzzy|64|[youtube](https://youtu.be/k18LE6P1gH4)|[github](https://github.com/MinaMourice/DrugScanner)
+L|Good Book|52|[youtube](https://www.youtube.com/watch?v=RNeh67pobwI)|[github](https://github.com/mahmoudatef955/GoodBook)
+L|5M|2|[youtube](https://www.youtube.com/watch?v=a7JGgkiCReA&feature=youtu.be)|[github](https://github.com/mmo7amed2010/smartElections)
+L|Sudoku|21|[youtube](shorturl.at/bkzC6)|[github](https://github.com/Kareem991/Sudoku-Solver)
+F|VisioNinjas|48|N/A|N/A
+F|opencv|55|N/A|N/A
+F|Group 12|63|N/A|N/A
