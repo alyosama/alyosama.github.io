@@ -1,39 +1,20 @@
----
-layout: post
-title:  "CVC19 | 2nd Ain Shams University Computer Vision Competition"
-date:   2019-05-08 12:02:01
-categories: Computer Vision
----
-
-![Competition Logo](https://image.ibb.co/h25pPS/CVC_logo.png){:class="img-responsive"}
-
-Research progress in computer vision and pattern recognition has lead to a variety of modeling techniques with (almost) human-like performance in a variety of tasks. We are organizing a competition on implementation computer vision systems. We aim to compile the latest efforts and research advances from the scientific community in creating a computer vision applications to help our daily life. 
-For more details, [click here](http://ihub.asu.edu.eg/cvc19.html)
-.
-
-This competition is related to Digital Image Processing Course in Ain Shams University and organized by Aly Osama, Mohamed Ashraf and Dr. Mahmoud Khalil
-
-The projects list, This is not the final rank.  
-
-|Rank|TeamName|Team#|DemoVideo|SourceCode|
-|-------|-------|-------|-------|-------|
 *|ScanLee|22|[youtube](https://www.youtube.com/watch?v=YwVEqtSxIM8&feature=youtu.be&fbclid=IwAR1r2SEXiNYrXbm8hGDTHM02FwrZL4-6bLZJZ_qO0xRcoB4I6h4fGv1UwR4)|[github](https://github.com/3omar3allam/salah-ly)
 *|SitFit|66|[youtube](https://youtu.be/UXKte1Qf39A)|[github](https://github.com/SamuelFarid/SitFit)
-*|TransPixels|56|[youtube](https://www.youtube.com/watch?v=j7Hj9SPsO_k&feature=youtu.be&fbclid=IwAR23BmTVSu9Eyv6SBsJVyTWQDQJ5OlJfitjjuXNZ0mquwDRLkum0gSoCiok)|[github](https://github.com/AbdelrhmanMagdy/trans-pixels)
 *|LastMinuteSquad|13|[youtube](https://youtu.be/oeaySq77Bmc)|[github](https://github.com/AmrMohamed96/freshmen_table_parser_LMS)
-*|MaFa|14|[youtube](https://youtu.be/lLNY1k0gY2c)|[github](https://github.com/Fady-Saeed/Mokhalfati-Integrated)
 *|Check it|19|[youtube](https://www.youtube.com/playlist?list=PLpIgTVyzkB4RoXK8aVgWw7RMEQG3rPpLa)|[github](https://github.com/C-Script/AutoGuide)
 *|X-Team|42|[youtube](https://youtu.be/Ft0mwggR25U)|[github](https://github.com/diaaahmed850/Vision19)
 *|Assasins|26|[youtube](https://youtu.be/nRJnQESD81k)|[github](https://github.com/ahmhekal/Drawings_To_autoCad)
 *|Plus Ultra|37|[youtube](https://www.facebook.com/kiro.wadie/videos/10215915202087735/)|[github](https://github.com/DavidIbrahim/ERToSQL)
-*|B7b El-Cima|5|[youtube](https://youtu.be/HuqR4sw75ko)|[github](https://github.com/SuperMoody/b7b_el_cima.git)
-*|Ninja|40|[youtube](https://drive.google.com/file/d/13U_bDedSSWpv50RFDHmI9cr_9gPOz3di/view?usp=sharing)|[github](https://github.com/Amira-Fareed/Camera-Dialer)
 *|Asphalt|32|[youtube](https://www.youtube.com/watch?v=5_aO7wyKmOU&feature=youtu.be&fbclid=IwAR1Z7pEKJsIllmXMO3dIIL5SvRd-GWMSz68_Nf1RN9T1FegykRvAIeJMgTU)|[github](https://github.com/MoamenAhmedEl-Nashar/Asphalt)
 *|Codak|24|[youtube](https://youtu.be/niApNTYrF8k)|[github](https://github.com/AyaDarwish/Pseudocode-Converter-CVC)
 *|PPU|11|[youtube](https://www.youtube.com/watch?v=feCZ_rXH6UE&feature=youtu.be&fbclid=IwAR2PKETHUbcYKJisY9lxDyqpi5WoFMh8B4xUlGN0XeAq6XL9nQb4HZw3sic)|[github](https://github.com/eng-OmarAdel/PPU?fbclid=IwAR2StymRg19yUoM3UGt86yByphm1uGJbTXIBOmEPZmxtRC-FWbpbFs7gWR4)
 *|01pharma|67|[youtube](https://youtu.be/7uhmjrfo9qQ)|[github](https://github.com/YomnaJehad/Drug-Pills-Identification-App)
 *|DoDo|39|[youtube](https://youtu.be/9pp_zGtAmGk )|[github](https://github.com/AlJazari1440/DoDo_ws )
-17|0XFFFF|17|[youtube](https://drive.google.com/open?id=15eTuyoUNq_pmm-mtxZ5q0AOj3BQpLpfU)|[github](https://github.com/fadymedhat2236/0XFFFFF-IP)
+13|TransPixels|56|[youtube](https://www.youtube.com/watch?v=j7Hj9SPsO_k&feature=youtu.be&fbclid=IwAR23BmTVSu9Eyv6SBsJVyTWQDQJ5OlJfitjjuXNZ0mquwDRLkum0gSoCiok)|[github](https://github.com/AbdelrhmanMagdy/trans-pixels)
+14|MaFa|14|[youtube](https://youtu.be/lLNY1k0gY2c)|[github](https://github.com/Fady-Saeed/Mokhalfati-Integrated)
+15|0XFFFF|17|[youtube](https://drive.google.com/open?id=15eTuyoUNq_pmm-mtxZ5q0AOj3BQpLpfU)|[github](https://github.com/fadymedhat2236/0XFFFFF-IP)
+16|B7b El-Cima|5|[youtube](https://youtu.be/HuqR4sw75ko)|[github](https://github.com/SuperMoody/b7b_el_cima.git)
+17|Ninja|40|[youtube](https://drive.google.com/file/d/13U_bDedSSWpv50RFDHmI9cr_9gPOz3di/view?usp=sharing)|[github](https://github.com/Amira-Fareed/Camera-Dialer)
 18|HaMBuRGeR|41|[youtube](https://youtu.be/0GmiJvBlCwk)|[github](https://github.com/bothaynahazem/Student-ID-Card-Scanner)
 19|Wild-pointers Hunters|4|[youtube](https://www.youtube.com/watch?v=xUIy5EQ3R6s&t=2s)|[github](https://github.com/OlaHamdy3/National-ID-card-reader)
 20|Les Misérables|44|[youtube](https://youtu.be/SFog5FCl6OI)|[github](https://github.com/DarioMars97/ImageProcessing_Project_2019)
@@ -90,6 +71,6 @@ L|Fuzzy|64|[youtube](https://youtu.be/k18LE6P1gH4)|[github](https://github.com/M
 L|Good Book|52|[youtube](https://www.youtube.com/watch?v=RNeh67pobwI)|[github](https://github.com/mahmoudatef955/GoodBook)
 L|5M|2|[youtube](https://www.youtube.com/watch?v=a7JGgkiCReA&feature=youtu.be)|[github](https://github.com/mmo7amed2010/smartElections)
 L|Sudoku|21|[youtube](https://www.youtube.com/watch?v=jS6PSKo0Hk8&fbclid=IwAR13VPxBp4OmU-Bz75Q5s-j_d2OeudYkKv4o8fGAnEdgmAKS5W3DaCB_m78)|[github](https://github.com/Kareem991/Sudoku-Solver)
-F|VisioNinjas|48|N/A|N/A
-F|opencv|55|N/A|N/A
-F|Group 12|63|N/A|N/A
+F|VisioNinjas|48|N/A|[github](nan)
+F|opencv|55|N/A|[github](nan)
+F|Group 12|63|N/A|[github](nan)
