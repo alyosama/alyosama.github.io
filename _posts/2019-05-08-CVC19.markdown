@@ -1,3 +1,22 @@
+---
+layout: post
+title:  "CVC19 | 2nd Ain Shams University Computer Vision Competition"
+date:   2019-05-08 12:02:01
+categories: Computer Vision
+---
+
+![Competition Logo](https://image.ibb.co/h25pPS/CVC_logo.png){:class="img-responsive"}
+
+Research progress in computer vision and pattern recognition has lead to a variety of modeling techniques with (almost) human-like performance in a variety of tasks. We are organizing a competition on implementation computer vision systems. We aim to compile the latest efforts and research advances from the scientific community in creating a computer vision applications to help our daily life. 
+For more details, [click here](http://ihub.asu.edu.eg/cvc19.html)
+.
+
+This competition is related to Digital Image Processing Course in Ain Shams University and organized by Aly Osama, Mohamed Ashraf and Dr. Mahmoud Khalil
+
+The projects list, This is not the final rank.  
+
+|Rank|TeamName|Team#|DemoVideo|SourceCode|
+|-------|-------|-------|-------|-------|
 *|ScanLee|22|[youtube](https://www.youtube.com/watch?v=YwVEqtSxIM8&feature=youtu.be&fbclid=IwAR1r2SEXiNYrXbm8hGDTHM02FwrZL4-6bLZJZ_qO0xRcoB4I6h4fGv1UwR4)|[github](https://github.com/3omar3allam/salah-ly)
 *|SitFit|66|[youtube](https://youtu.be/UXKte1Qf39A)|[github](https://github.com/SamuelFarid/SitFit)
 *|LastMinuteSquad|13|[youtube](https://youtu.be/oeaySq77Bmc)|[github](https://github.com/AmrMohamed96/freshmen_table_parser_LMS)
@@ -71,6 +90,6 @@ L|Fuzzy|64|[youtube](https://youtu.be/k18LE6P1gH4)|[github](https://github.com/M
 L|Good Book|52|[youtube](https://www.youtube.com/watch?v=RNeh67pobwI)|[github](https://github.com/mahmoudatef955/GoodBook)
 L|5M|2|[youtube](https://www.youtube.com/watch?v=a7JGgkiCReA&feature=youtu.be)|[github](https://github.com/mmo7amed2010/smartElections)
 L|Sudoku|21|[youtube](https://www.youtube.com/watch?v=jS6PSKo0Hk8&fbclid=IwAR13VPxBp4OmU-Bz75Q5s-j_d2OeudYkKv4o8fGAnEdgmAKS5W3DaCB_m78)|[github](https://github.com/Kareem991/Sudoku-Solver)
-F|VisioNinjas|48|N/A|[github](nan)
-F|opencv|55|N/A|[github](nan)
-F|Group 12|63|N/A|[github](nan)
+F|VisioNinjas|48|N/A|N/A
+F|opencv|55|N/A|N/A
+F|Group 12|63|N/A|N/A
