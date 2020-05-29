@@ -16,6 +16,8 @@ categories: Computer Vision
 ## Competition 
 
 [1st Ain Shams University Computer Vision Competition](http://alyosama.github.io/computer/vision/2018/05/03/CVC18.html)
+[2nd Ain Shams University Computer Vision Competition](http://alyosama.github.io/computer/vision/2019/05/08/CVC19.html)
+
 
 ## Projects
 
