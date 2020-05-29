@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Practical Digital Image Processing"
-date:   2018-05-04 12:02:01
+date:   2019-10-01 12:02:01
 categories: Computer Vision
 ---
 
