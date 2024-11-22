@@ -1,24 +1,40 @@
 ---
 layout: post
-title:  "Practical Digital Image Processing"
-date:   2019-10-01 12:02:01
+title: "Teaching Digital Image Processing and Organizing Computer Vision Competitions"
+date: 2019-10-01 12:02:01
 categories: Computer Vision
 ---
 
-## Course Content
+## Teaching Experience: Practical Digital Image Processing Course
 
-1. [Intro to practical image processing](https://www.slideshare.net/AlyOsama2/practical-digital-image-processing-1)
+In 2019, I had the opportunity to design and teach a comprehensive course titled **Practical Digital Image Processing** at Ain Shams University. The course aimed to provide students with hands-on experience in fundamental techniques and applications of computer vision.
+
+### Course Content
+The course covered several essential topics in digital image processing and computer vision, such as:
+
+1. [Introduction to Practical Image Processing](https://www.slideshare.net/AlyOsama2/practical-digital-image-processing-1)
 2. [Transformation and Edge Detection](https://www.slideshare.net/AlyOsama2/practical-digital-image-processing-2)
-3. [Hough Transform and Corner Detector](https://www.slideshare.net/AlyOsama2/practical-digital-image-processing-3)
-4. [Feature discriptors and Feature matching](https://www.slideshare.net/AlyOsama2/practical-digital-image-processing-4)
-5. [Stereo Images, Optical flow and machine learning](https://www.slideshare.net/AlyOsama2/practical-digital-image-processing-5)
+3. [Hough Transform and Corner Detection](https://www.slideshare.net/AlyOsama2/practical-digital-image-processing-3)
+4. [Feature Descriptors and Feature Matching](https://www.slideshare.net/AlyOsama2/practical-digital-image-processing-4)
+5. [Stereo Images, Optical Flow, and Machine Learning](https://www.slideshare.net/AlyOsama2/practical-digital-image-processing-5)
 
-## Competition 
+This course not only enhanced students' knowledge of image processing fundamentals but also prepared them for practical applications by exposing them to various techniques used in real-world scenarios.
 
-[1st Ain Shams University Computer Vision Competition](http://alyosama.github.io/computer/vision/2018/05/03/CVC18.html)
-[2nd Ain Shams University Computer Vision Competition](http://alyosama.github.io/computer/vision/2019/05/08/CVC19.html)
+## Organizing Computer Vision Competitions
 
+To motivate students and foster innovation, I co-organized the **Ain Shams University Computer Vision Competition** (CVC), which allowed participants to apply their knowledge by developing creative solutions to practical problems in computer vision. The competition showcased advancements in computer vision applications and served as a platform for students to explore cutting-edge research and applications.
 
-## Projects
+### Competition Highlights
 
-[TOP 20 Project](https://www.youtube.com/watch?v=fc3kUGSVN6g)
+- **[1st Ain Shams University Computer Vision Competition (CVC18)](http://alyosama.github.io/computer/vision/2018/05/03/CVC18.html)**
+- **[2nd Ain Shams University Computer Vision Competition (CVC19)](http://alyosama.github.io/computer/vision/2019/05/08/CVC19.html)**
+
+![Competition Logo](https://image.ibb.co/h25pPS/CVC_logo.png){:class="img-responsive"}
+
+**CVC19** was a particularly successful event that drew extensive participation and innovation. Organized by myself, Mohamed Ashraf, and Dr. Mahmoud Khalil, the competition aimed to gather and highlight the latest computer vision advances, offering a collaborative space for students and researchers to apply computer vision methods to real-life problems. For more details, visit the [CVC19 page](http://ihub.asu.edu.eg/cvc19.html).
+
+### Featured Projects
+
+During both competitions, students presented a wide range of innovative projects. In the 2019 edition, the **Top 20 Projects** were showcased, demonstrating the participants’ creativity and technical skill. These projects explored various applications of computer vision, highlighting the students' ability to translate theoretical knowledge into practical solutions. [Watch the project highlights here](https://www.youtube.com/watch?v=fc3kUGSVN6g).
+
+This teaching and competition experience emphasized the importance of applying theoretical knowledge to solve real-world problems, encouraging students to push the boundaries of computer vision and machine learning applications.
