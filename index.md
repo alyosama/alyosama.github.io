@@ -15,7 +15,6 @@ Researcher with over 8 years of experience in deep learning, natural language pr
 ## [Education](education.md)
 ## [Professional Experience](experience.md)
 ## [Publications](publications.md)
-## [Talks](talks.md)
 
 
 ## Blog Posts
