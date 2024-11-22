@@ -8,7 +8,7 @@ Calgary, AB, Canada
 ---
 
 ## Objective
-Researcher with over 8 years of experience in deep learning, natural language processing, bioinformatics, and AI-driven solutions. I am seeking a scientist position to apply my skills in advancing cancer research, with a focus on impactful applications in oncology and drug discovery.
+Researcher with over 8 years of experience in deep learning, natural language processing, bioinformatics, and AI-driven solutions. My passion is to apply my skills in advancing cancer research, with a focus on impactful applications in oncology and drug discovery.
 
 ---
 
