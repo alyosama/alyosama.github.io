@@ -1,4 +1,4 @@
-# Professional and Academic Experience
+# Experience
 
 ## Lead Machine Learning Scientist
 **Syntheia (LegalTech)**  
