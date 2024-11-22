@@ -1,6 +1,5 @@
 # Aly O. Abdelkareem
 
-**Curriculum Vitae**  
 Calgary, AB, Canada  
 [LinkedIn](https://www.linkedin.com/in/alyosama) | [Scholar](https://scholar.google.ca/citations?user=MWMQQGcAAAAJ) | [GitHub](https://github.com/alyosama)  
 
